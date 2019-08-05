@@ -46,3 +46,19 @@ text-transform: capitalize;
  outline: none;
  text-transform: uppercase;
 }
+.addItems-submit,.displayItems-clear{
+ display: block;
+ width: 80%;
+ margin: 2rem auto 0 auto;
+ font-size: 1.5rem;
+ border-radius: 0.5rem;
+ cursor: pointer;
+ text-transform: capitalize;
+ outline: none;
+}
+.addItems-submit{
+ color: #B6C2D9;
+ background: transparent;
+ border:3px solid #B6C2D9;
+ transition: all 2s ease; 
+}
