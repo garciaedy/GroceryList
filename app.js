@@ -5,3 +5,7 @@ const submit = document.querySelector('.addItems-submit');
 const list = document.querySelector('.grocery-list');
 const displayItemsAction = document.querySelector('.displayItems-action');
 const clear = document.querySelector('.displayItems-clear')
+
+//event listeners
+
+submit.addEventListener('click', addItem)
