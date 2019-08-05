@@ -83,3 +83,6 @@ text-transform: capitalize;
  transition: all 1s ease;
  margin:0.5rem 0;
 }
+.grocery-item:hover{
+background:#828489;
+}
