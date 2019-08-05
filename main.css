@@ -22,3 +22,27 @@ body{
     box-shadow: 0 5px 10px coral;
 
 }
+.addItems-title,.displayItems-title{
+text-transform: capitalize;
+}
+.addItems-title{
+ color: cadetblue;
+};
+.addItems-action,.displayItems-action{
+ border:2px solid azure;
+ padding: 0.5rem 0;
+ text-transform: capitalize;
+ border-radius: 0.5rem;
+ display: none;
+}
+.addItems-input{
+ background: transparent;
+ border:none;
+ border-bottom: 5px solid #9E90A2;
+ width: 100%;
+ font-size: 2rem;
+ padding: 0.5rem;
+ color: #9E90A2;
+ outline: none;
+ text-transform: uppercase;
+}
