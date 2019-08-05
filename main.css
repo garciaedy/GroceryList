@@ -62,3 +62,7 @@ text-transform: capitalize;
  border:3px solid #B6C2D9;
  transition: all 2s ease; 
 }
+.addItems-submit:hover{
+ background: #B6C2D9;
+ color: #272932;
+}
