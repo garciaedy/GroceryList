@@ -66,3 +66,20 @@ text-transform: capitalize;
  background: #B6C2D9;
  color: #272932;
 }
+.displayItems-container{
+ background: #B6C2D9;
+
+}
+.displayItems-title{
+ color: #4D7EA8;
+ margin-bottom: 0.25rem;
+}
+.grocery-item{
+ display: grid;
+ grid-template-columns: 4fr 1fr;
+ align-items: center;
+ border-radius: 0.5rem;
+ padding: 0.5rem;
+ transition: all 1s ease;
+ margin:0.5rem 0;
+}
